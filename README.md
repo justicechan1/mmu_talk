@@ -15,7 +15,7 @@
 | 개발 기간 | 2024.10 ~ 2024.11 |
 | 인원 | 4명 |
 | 담당 (정의찬) | Gemini 프롬프트 설계 — 이전 질문에서 찾은 담당부서 정보를 세션에 유지해 "연락처는?" 같은 후속 질문에도 답하도록 하고, 검색 문서 기반 답변·담당부서·URL 출력 규칙을 프롬프트에 고정해 답변 형식을 일관되게 유지 (`mmu_talk.py` `process_question`, `get_enhanced_rag_chain`) |
-| 수상 | 2024 교내 공학작품 경진대회 장려상 |
+| 수상 | 2024.11 교내 공학작품 경진대회 장려상 |
 | 원본 저장소 | [Baekbanjang/mmu_talk](https://github.com/Baekbanjang/mmu_talk) |
 
 ## 구조
